@@ -28,6 +28,11 @@
             "Statistics": true,
             "BP": true
         }
-
+    },
+    "Style": {
+        "Image": {
+            "Percent": 20,
+            "Logo": ""
+        }
     }
 }
